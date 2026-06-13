@@ -16,8 +16,8 @@ class ChbabMohamed:
     def __init__(self):
         self.role       = "AI & Software Engineer"
         self.passion    = "Cybersecurity"
-        self.languages  = ["Python", "JavaScript/TypeScript", "Java"]
-        self.frameworks = ["React", "Spring Boot", "LangChain", "CrewAI"]
+        self.languages  = ["Python", "JavaScript", "Java"]
+        self.frameworks = ["React", "Spring Boot", "LangChain", "LangGraph", "CrewAI"]
         self.motto      = "Hack it. Build it. Secure it."
     
     def current_mission(self):
