@@ -105,7 +105,7 @@ class ChbabMohamed:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](www.linkedin.com/in/mohamed-chbab-643382235)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/mohamed-chbab-643382235)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Chbabmed)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=protonmail&logoColor=00ff41)](mailto:chbabmohamed3@gmail.com)
 
