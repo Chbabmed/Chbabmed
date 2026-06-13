@@ -126,13 +126,6 @@ Running and fine-tuning **open-source models locally** — privacy-first AI that
 
 ---
 
-<!-- TROPHY CASE -->
-## 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chbabmed&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" />
-</div>
-
 ---
 
 <!-- SNAKE ANIMATION -->
@@ -151,9 +144,9 @@ Running and fine-tuning **open-source models locally** — privacy-first AI that
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/chbabmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](www.linkedin.com/in/mohamed-chbab-643382235)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Chbabmed)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=protonmail&logoColor=00ff41)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=protonmail&logoColor=00ff41)](mailto:chbabmohamed3@gmail.com)
 
 </div>
 
