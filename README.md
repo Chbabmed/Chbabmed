@@ -90,44 +90,6 @@ class ChbabMohamed:
 
 ---
 
-<!-- WHAT I'M BUILDING -->
-## 🔭 What I'm Building
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Agent Systems
-Building **autonomous multi-agent architectures** using LangChain, LangGraph & CrewAI — from RAG pipelines to self-improving AI workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security Research
-Exploring the frontier of **AI-powered security tools**, adversarial ML, prompt injection defenses, and automated vulnerability detection.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ Full-Stack Development
-Crafting modern web apps with **React** on the frontend and **Spring Boot** on the backend — clean APIs, solid architecture.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Local LLM Experimentation
-Running and fine-tuning **open-source models locally** — privacy-first AI that doesn't phone home.
-
-</td>
-</tr>
-</table>
-
----
-
----
-
 <!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Graph
 
@@ -135,7 +97,6 @@ Running and fine-tuning **open-source models locally** — privacy-first AI that
   <img src="https://raw.githubusercontent.com/Chbabmed/Chbabmed/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚙️ *Set up the [snake workflow](https://github.com/Platane/snk) via GitHub Actions to activate this animation.*
 
 ---
 
