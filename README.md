@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Chbab%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Cyber%20Guardian&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0a6e0a&height=220&section=header&text=Chbab%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Cyber%20Guardian&descSize=18&descAlignY=55&descAlign=50" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%90+Breaking+systems+to+build+them+stronger;%F0%9F%A4%96+Engineering+intelligence+with+LLMs+%26+Agents;%F0%9F%9B%A1%EF%B8%8F+Security+first.+Always." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%90+Breaking+systems+to+build+them+stronger;%F0%9F%A4%96+Engineering+intelligence+with+LLMs+%26+Agents;%F0%9F%9B%A1%EF%B8%8F+Security+first.+Always." alt="Typing SVG" /></a>
 
 </div>
 
@@ -17,6 +17,7 @@ class ChbabMohamed:
         self.role       = "AI & Software Engineer"
         self.passion    = "Cybersecurity"
         self.languages  = ["Python", "JavaScript/TypeScript", "Java"]
+        self.frameworks = ["React", "Spring Boot", "LangChain", "CrewAI"]
         self.motto      = "Hack it. Build it. Secure it."
     
     def current_mission(self):
@@ -33,27 +34,39 @@ class ChbabMohamed:
 <div align="center">
 
 ### 🧠 AI & LLM Stack
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=7b2ff7)
-![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=for-the-badge&logo=robot&logoColor=ff6b6b)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=ea4b71)
-![Local LLMs](https://img.shields.io/badge/Local_LLMs-0d1117?style=for-the-badge&logo=meta&logoColor=00d4ff)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-0d1117?style=for-the-badge&logo=pinecone&logoColor=7b2ff7)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</a>
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-0d1117?style=flat-square&logoColor=00ff41)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-0d1117?style=flat-square&logoColor=00ff41)
+![CrewAI](https://img.shields.io/badge/🚀_CrewAI-0d1117?style=flat-square&logoColor=00ff41)
+![n8n](https://img.shields.io/badge/⚙️_n8n-0d1117?style=flat-square&logoColor=00ff41)
+![Local LLMs](https://img.shields.io/badge/🧠_Local_LLMs-0d1117?style=flat-square&logoColor=00ff41)
+![Vector DBs](https://img.shields.io/badge/📦_Vector_DBs-0d1117?style=flat-square&logoColor=00ff41)
 
 ### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,spring,java,js,ts,nodejs,vscode,git&theme=dark" />
+</a>
 
 ### 🛡️ Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF6633)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash&theme=dark" />
+</a>
+
+<br/>
+
+![Burp Suite](https://img.shields.io/badge/🔓_Burp_Suite-0d1117?style=flat-square)
+![Wireshark](https://img.shields.io/badge/🦈_Wireshark-0d1117?style=flat-square)
+![Metasploit](https://img.shields.io/badge/💀_Metasploit-0d1117?style=flat-square)
+![OWASP](https://img.shields.io/badge/🛡️_OWASP-0d1117?style=flat-square)
+![Nmap](https://img.shields.io/badge/📡_Nmap-0d1117?style=flat-square)
 
 </div>
 
@@ -63,16 +76,16 @@ class ChbabMohamed:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chbabmed&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=a9b1d6&ring_color=7b2ff7" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Chbabmed&theme=tokyonight&background=0d1117&hide_border=true&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=a9b1d6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chbabmed&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=a9ffa9&ring_color=0a6e0a" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Chbabmed&background=0d1117&hide_border=true&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=a9ffa9&sideNums=a9ffa9&dates=4a8c4a" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chbabmed&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=a9b1d6" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chbabmed&layout=compact&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=a9ffa9" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chbabmed&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chbabmed&bg_color=0d1117&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=0a6e0a&hide_border=true" />
 </div>
 
 ---
@@ -98,8 +111,8 @@ Exploring the frontier of **AI-powered security tools**, adversarial ML, prompt 
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 Automation & Orchestration
-Designing **intelligent automation pipelines** with n8n and custom APIs — connecting LLMs to real-world workflows at scale.
+### ⚛️ Full-Stack Development
+Crafting modern web apps with **React** on the frontend and **Spring Boot** on the backend — clean APIs, solid architecture.
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +130,7 @@ Running and fine-tuning **open-source models locally** — privacy-first AI that
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chbabmed&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chbabmed&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -138,9 +151,9 @@ Running and fine-tuning **open-source models locally** — privacy-first AI that
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/chbabmed)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Chbabmed)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/chbabmed)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Chbabmed)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=protonmail&logoColor=00ff41)](mailto:your-email@example.com)
 
 </div>
 
@@ -150,8 +163,8 @@ Running and fine-tuning **open-source models locally** — privacy-first AI that
 
 ### 💀 *"The quieter you become, the more you can hear."* — Kali Linux
 
-<img src="https://komarev.com/ghpvc/?username=Chbabmed&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Chbabmed&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d4ff,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a6e0a,50:00ff41,100:0d1117&height=120&section=footer" />
